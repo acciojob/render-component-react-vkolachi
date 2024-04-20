@@ -5,6 +5,7 @@ const App = () => {
   return (
     <div id="main">
       <p>I am learning React. My life is getting better.</p>
+      <h1></h1>
     </div>
   )
 }
